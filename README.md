@@ -11,7 +11,7 @@
 
 ### Developer | Gamer | Pentester
 
-I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High School), and I have skills in programming languages such as: C++, Java, Javascript, Python,... and skills of a Pentester.
+I'm a 16 year old student from THPT Chu Van An, and I have skills in programming languages such as: C++, Java, Javascript, Python,... and skills of a Pentester.
 
 *Let's explore the world of coding and gaming together!*
 
