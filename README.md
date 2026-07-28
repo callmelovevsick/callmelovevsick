@@ -41,10 +41,8 @@ I code in C++, Java, JavaScript và Python.
 ### GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=callmelovevsick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=a78bfa" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmelovevsick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=callmelovevsick&bg_color=0d0d1a&color=a78bfa&line=302b63&point=f59e0b&area=true&hide_border=true" height="165"/>
 
 </div>
 
