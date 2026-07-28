@@ -42,7 +42,7 @@ I code in C++, Java, JavaScript và Python.
 
 <div align="center">
 &nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=callmelovevsick&bg_color=0d0d1a&color=a78bfa&line=302b63&point=f59e0b&area=true&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=callmelovevsick&bg_color=0d0d1a&color=a78bfa&line=302b63&point=f59e0b&area=true&hide_border=true" width="100%"/>
 
 </div>
 
